@@ -1,0 +1,1 @@
+imfinfo('7.bmp','bmp')
